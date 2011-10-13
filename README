@@ -1,0 +1,10 @@
+== VI/VIM Coloring for Ruby
+
+VI/VIM Coloring for Ruby
+
+
+== Getting Started
+
+1. Put .vim at ~/
+
+2. Sym link ~/.vimrc to ~/.vimrc/_vimrc
